@@ -1,0 +1,25 @@
+{
+  "name": "asset-watcher",
+  "version": "0.0.1",
+  "description": "Watches CSS and JS files in assets folder for changes.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "grunt",
+    "tasks",
+    "automate"
+  ],
+	"dependencies": {
+		"grunt-cli": "latest"
+	},
+	"devDependencies": {
+		"grunt": "latest",
+		"grunt-contrib-uglify": "latest",
+		"grunt-contrib-watch": "latest"
+	},
+  "author": "Mehul Ved",
+  "license": "BSD"
+}
